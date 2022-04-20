@@ -7,5 +7,5 @@
 <!---
 rlemarroy/rlemarroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> Hi, I'm Ricardo Lemarroy and I an MBA student interested in entrepreneursip within the consumer tech industry (a little bit inclined to fintech) in the LATAM region which I think has a huge potential left to unlock.
+---> Hi, I'm Ricardo Lemarroy, an MBA student interested in entrepreneursip within the consumer tech industry (a little bit inclined to fintech) in the LATAM region which I think has a huge potential left to unlock.
 
